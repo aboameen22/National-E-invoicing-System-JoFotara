@@ -1,1 +1,3 @@
-# National E-invoicing System JoFotara
+# National E-invoicing System JoFotara 
+#هذا ليس مشروع كامل وإنما الديكيومنت كما هي من الفوترة
+ملفات بي دي اف لتوضيح كيفية انشاء الكود
